@@ -1,0 +1,126 @@
+Key,KingAction,Action1,Action2,KingLifeChange,KingMoneyChange,LifeChange1,MoneyChange1,LifeChange2,MoneyChange2
+FSS,Fortify,Siege,Siege,0,0,-100,0,-100,0
+FSP,Fortify,Siege,Pillage,-75,0,-100,0,25,1000
+FSM,Fortify,Siege,Attack (Money),0,0,-100,-2000,0,2000
+FSL,Fortify,Siege,Attack (Lives),0,0,-150,0,0,0
+FSB,Fortify,Siege,Bolster,0,0,-100,0,50,0
+FPS,Fortify,Pillage,Siege,-75,0,25,1000,-100,0
+FPP,Fortify,Pillage,Pillage,-150,0,25,1000,25,1000
+FPM,Fortify,Pillage,Attack (Money),-75,0,25,-1000,0,2000
+FPL,Fortify,Pillage,Attack (Lives),-75,0,-25,1000,0,0
+FPB,Fortify,Pillage,Bolster,-75,0,25,1000,50,0
+FMS,Fortify,Attack (Money),Siege,0,0,0,2000,-100,-2000
+FMP,Fortify,Attack (Money),Pillage,-75,0,0,2000,25,-1000
+FMM,Fortify,Attack (Money),Attack (Money),0,0,0,0,0,0
+FML,Fortify,Attack (Money),Attack (Lives),0,0,-50,2000,0,-2000
+FMB,Fortify,Attack (Money),Bolster,0,0,-100,0,50,0
+FLS,Fortify,Attack (Lives),Siege,0,0,0,0,-150,0
+FLP,Fortify,Attack (Lives),Pillage,-75,0,0,0,-25,1000
+FLM,Fortify,Attack (Lives),Attack (Money),0,0,0,-2000,-50,2000
+FLL,Fortify,Attack (Lives),Attack (Lives),0,0,-50,0,-50,0
+FLB,Fortify,Attack (Lives),Bolster,0,0,-100,0,50,0
+FBS,Fortify,Bolster,Siege,0,0,50,0,-100,0
+FBP,Fortify,Bolster,Pillage,-75,0,50,0,25,1000
+FBM,Fortify,Bolster,Attack (Money),0,0,50,0,-100,0
+FBL,Fortify,Bolster,Attack (Lives),0,0,50,0,-100,0
+FBB,Fortify,Bolster,Bolster,0,0,50,0,50,0
+PSS,Protect,Siege,Siege,0,-8000,0,4000,0,4000
+PSP,Protect,Siege,Pillage,0,0,-100,0,-50,0
+PSM,Protect,Siege,Attack (Money),0,0,-100,-2000,0,2000
+PSL,Protect,Siege,Attack (Lives),0,0,-150,0,0,0
+PSB,Protect,Siege,Bolster,0,0,-100,0,50,0
+PPS,Protect,Pillage,Siege,0,0,-50,0,-100,0
+PPP,Protect,Pillage,Pillage,0,0,-50,0,-50,0
+PPM,Protect,Pillage,Attack (Money),0,0,-50,-2000,0,2000
+PPL,Protect,Pillage,Attack (Lives),0,0,-100,0,0,0
+PPB,Protect,Pillage,Bolster,0,0,-50,0,50,0
+PMS,Protect,Attack (Money),Siege,0,0,0,2000,-100,-2000
+PMP,Protect,Attack (Money),Pillage,0,0,0,2000,-50,-2000
+PMM,Protect,Attack (Money),Attack (Money),0,0,0,0,0,0
+PML,Protect,Attack (Money),Attack (Lives),0,0,-50,2000,0,-2000
+PMB,Protect,Attack (Money),Bolster,0,0,-100,0,50,0
+PLS,Protect,Attack (Lives),Siege,0,0,0,0,-150,0
+PLP,Protect,Attack (Lives),Pillage,0,0,0,0,-100,0
+PLM,Protect,Attack (Lives),Attack (Money),0,0,0,-2000,-50,2000
+PLL,Protect,Attack (Lives),Attack (Lives),0,0,-50,0,-50,0
+PLB,Protect,Attack (Lives),Bolster,0,0,-100,0,50,0
+PBS,Protect,Bolster,Siege,0,0,50,0,-100,0
+PBP,Protect,Bolster,Pillage,0,0,50,0,-50,0
+PBM,Protect,Bolster,Attack (Money),0,0,50,0,-100,0
+PBL,Protect,Bolster,Attack (Lives),0,0,50,0,-100,0
+PBB,Protect,Bolster,Bolster,0,0,50,0,50,0
+1SS,Attack Clan #1,Siege,Siege,0,-8000,-300,0,0,8000
+1SP,Attack Clan #1,Siege,Pillage,-75,0,-300,0,25,1000
+1SM,Attack Clan #1,Siege,Attack (Money),0,0,-300,-2000,0,2000
+1SL,Attack Clan #1,Siege,Attack (Lives),0,0,-350,0,0,0
+1SB,Attack Clan #1,Siege,Bolster,0,0,-300,0,50,0
+1PS,Attack Clan #1,Pillage,Siege,-75,-8000,-125,1000,0,8000
+1PP,Attack Clan #1,Pillage,Pillage,-150,0,-125,1000,25,1000
+1PM,Attack Clan #1,Pillage,Attack (Money),-75,0,-125,-1000,0,2000
+1PL,Attack Clan #1,Pillage,Attack (Lives),-75,0,-175,1000,0,0
+1PB,Attack Clan #1,Pillage,Bolster,-75,0,-125,1000,50,0
+1MS,Attack Clan #1,Attack (Money),Siege,0,-8000,-150,2000,0,6000
+1MP,Attack Clan #1,Attack (Money),Pillage,-75,0,-150,2000,25,-1000
+1MM,Attack Clan #1,Attack (Money),Attack (Money),0,0,-150,0,0,0
+1ML,Attack Clan #1,Attack (Money),Attack (Lives),0,0,-200,2000,0,-2000
+1MB,Attack Clan #1,Attack (Money),Bolster,0,0,-250,0,50,0
+1LS,Attack Clan #1,Attack (Lives),Siege,0,-8000,-150,0,-50,8000
+1LP,Attack Clan #1,Attack (Lives),Pillage,-75,0,-150,0,-25,1000
+1LM,Attack Clan #1,Attack (Lives),Attack (Money),0,0,-150,-2000,-50,2000
+1LL,Attack Clan #1,Attack (Lives),Attack (Lives),0,0,-200,0,-50,0
+1LB,Attack Clan #1,Attack (Lives),Bolster,0,0,-250,0,50,0
+1BS,Attack Clan #1,Bolster,Siege,0,-8000,50,0,0,8000
+1BP,Attack Clan #1,Bolster,Pillage,-75,0,50,0,25,1000
+1BM,Attack Clan #1,Bolster,Attack (Money),0,0,50,0,-100,0
+1BL,Attack Clan #1,Bolster,Attack (Lives),0,0,50,0,-100,0
+1BB,Attack Clan #1,Bolster,Bolster,0,0,50,0,50,0
+2SS,Attack Clan #2,Siege,Siege,0,-8000,0,8000,-300,0
+2SP,Attack Clan #2,Siege,Pillage,-75,-8000,0,8000,-125,1000
+2SM,Attack Clan #2,Siege,Attack (Money),0,-8000,0,6000,-150,2000
+2SL,Attack Clan #2,Siege,Attack (Lives),0,-8000,-50,8000,-150,0
+2SB,Attack Clan #2,Siege,Bolster,0,-8000,0,8000,-100,0
+2PS,Attack Clan #2,Pillage,Siege,-75,0,25,1000,-300,0
+2PP,Attack Clan #2,Pillage,Pillage,-150,0,25,1000,-125,1000
+2PM,Attack Clan #2,Pillage,Attack (Money),-75,0,25,-1000,-150,2000
+2PL,Attack Clan #2,Pillage,Attack (Lives),-75,0,-25,1000,-150,0
+2PB,Attack Clan #2,Pillage,Bolster,-75,0,25,1000,-100,0
+2MS,Attack Clan #2,Attack (Money),Siege,0,0,0,2000,-300,-2000
+2MP,Attack Clan #2,Attack (Money),Pillage,-75,0,0,2000,-125,-1000
+2MM,Attack Clan #2,Attack (Money),Attack (Money),0,0,0,0,-150,0
+2ML,Attack Clan #2,Attack (Money),Attack (Lives),0,0,-50,2000,-150,-2000
+2MB,Attack Clan #2,Attack (Money),Bolster,0,0,-100,0,-100,0
+2LS,Attack Clan #2,Attack (Lives),Siege,0,0,0,0,-350,0
+2LP,Attack Clan #2,Attack (Lives),Pillage,-75,0,0,0,-175,1000
+2LM,Attack Clan #2,Attack (Lives),Attack (Money),0,0,0,-2000,-200,2000
+2LL,Attack Clan #2,Attack (Lives),Attack (Lives),0,0,-50,0,-200,0
+2LB,Attack Clan #2,Attack (Lives),Bolster,0,0,-100,0,-100,0
+2BS,Attack Clan #2,Bolster,Siege,0,0,50,0,-100,0
+2BP,Attack Clan #2,Bolster,Pillage,-75,0,50,0,25,1000
+2BM,Attack Clan #2,Bolster,Attack (Money),0,0,50,0,-100,0
+2BL,Attack Clan #2,Bolster,Attack (Lives),0,0,50,0,-100,0
+2BB,Attack Clan #2,Bolster,Bolster,0,0,50,0,50,0
+TSS,Tax,Siege,Siege,0,-4250,0,4000,0,4000
+TSP,Tax,Siege,Pillage,-75,3750,-100,0,25,1000
+TSM,Tax,Siege,Attack (Money),0,3750,-100,-2000,0,2000
+TSL,Tax,Siege,Attack (Lives),0,3750,-150,0,0,0
+TSB,Tax,Siege,Bolster,0,3750,-100,0,50,0
+TPS,Tax,Pillage,Siege,-75,3750,25,1000,-100,0
+TPP,Tax,Pillage,Pillage,-150,3750,25,1000,25,1000
+TPM,Tax,Pillage,Attack (Money),-75,3750,25,-1000,0,2000
+TPL,Tax,Pillage,Attack (Lives),-75,3750,-25,1000,0,0
+TPB,Tax,Pillage,Bolster,-75,3750,25,1000,50,0
+TMS,Tax,Attack (Money),Siege,0,3750,0,2000,-100,-2000
+TMP,Tax,Attack (Money),Pillage,-75,3750,0,2000,25,-1000
+TMM,Tax,Attack (Money),Attack (Money),0,3750,0,0,0,0
+TML,Tax,Attack (Money),Attack (Lives),0,3750,-50,2000,0,-2000
+TMB,Tax,Attack (Money),Bolster,0,3750,-100,0,50,0
+TLS,Tax,Attack (Lives),Siege,0,3750,0,0,-150,0
+TLP,Tax,Attack (Lives),Pillage,-75,3750,0,0,-25,1000
+TLM,Tax,Attack (Lives),Attack (Money),0,3750,0,-2000,-50,2000
+TLL,Tax,Attack (Lives),Attack (Lives),0,3750,-50,0,-50,0
+TLB,Tax,Attack (Lives),Bolster,0,3750,-100,0,50,0
+TBS,Tax,Bolster,Siege,0,3750,50,0,-100,0
+TBP,Tax,Bolster,Pillage,-75,3750,50,0,25,1000
+TBM,Tax,Bolster,Attack (Money),0,3750,50,0,-100,0
+TBL,Tax,Bolster,Attack (Lives),0,3750,50,0,-100,0
+TBB,Tax,Bolster,Bolster,0,3750,50,0,50,0
